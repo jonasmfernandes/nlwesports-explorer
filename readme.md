@@ -1,7 +1,7 @@
 # NLW eSports 
 ![preview](./assets/Captura%20de%20tela%202022-09-16%20140514.png)
 
-> Trilha Explorer
+> Trilha Ignite
 
 Projeto construído do evento Next Level Week(NLW) da Rocketseat.
 
