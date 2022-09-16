@@ -1,5 +1,5 @@
 # NLW eSports 
-![preview](/nlwesports-explorer/.github/127.0.0.1_5500_nlwesports-explorer_index.html.png)
+![preview](./assets/Fundo.jpg)
 
 > Trilha Explorer
 
