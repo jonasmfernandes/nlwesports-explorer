@@ -5,7 +5,7 @@
 
 Projeto construído do evento Next Level Week(NLW) da Rocketseat.
 
-🚀 [Clique aqui para acessar] (https://jonasmfernandes.github.io/nlwesports-explorer/) 
+🚀 [Clique aqui para acessar](https://jonasmfernandes.github.io/nlwesports-explorer/) 
 
 ## ⚒️ Tecnologias
 
